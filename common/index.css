@@ -1,0 +1,51 @@
+@charset "utf-8";
+
+@font-face {
+    font-family: 'Ghanachocolate';
+    src: url('../common/Ghanachocolate.otf');
+    font-weight: lighter;
+}
+
+@font-face {
+    font-family: 'jejuGothic';
+    src: url('../common/JejuGothicOTF.otf');
+    font-weight: lighter;
+}
+
+@font-face {
+    font-family: 'nanumGothic';
+    src: url('../common/NanumGothicLight.otf');
+}
+
+/* 
+:root {
+    scroll-behavior: auto
+}
+
+:root {
+    --bg-color: #f4f4f4;
+    --txt-color: #0c0c0c;
+    --txt-sub-color: #858585;
+    --font-size-14: 0.8rem;
+    --font-size-15: 0.9rem;
+    --font-size-16: 1rem;
+    --font-size-17: 1.1rem;
+    --font-size-18: 1.125rem;
+    --font-size-20: 1.25rem;
+    --font-size-24: 1.5rem;
+    --font-size-28: 1.75rem;
+    --font-size-34: 2.125rem;
+    --font-size-40: 2.5rem;
+    --font-size-50: 3.125rem;
+    --font-size-55: 3.5rem;
+    --font-size-60: 3.75rem;
+    --font-size-70: 4rem;
+}
+
+html {
+    scroll-behavior: smooth;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+} */
