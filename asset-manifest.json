@@ -1,13 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.91910f2d.css",
-    "main.js": "/static/js/main.d12f13ef.js",
-    "static/media/Ghanachocolate.otf": "/static/media/Ghanachocolate.bd20e61f79f0a650da7f.otf",
+    "main.css": "/static/css/main.e469b9e3.css",
+    "main.js": "/static/js/main.bf067aaf.js",
     "static/media/algore.png": "/static/media/algore.712ce4a6f7223adbb099.png",
+    "static/media/ythink.png": "/static/media/ythink.4daa2024d91d40cec70b.png",
     "static/media/toegeungil.png": "/static/media/toegeungil.f5c73407a0ce82e42274.png",
     "static/media/profile.png": "/static/media/profile.8d4ab012461d5a75712e.png",
     "static/media/kakaotalkProfile.png": "/static/media/kakaotalkProfile.918568dd0c014cd5eef9.png",
-    "static/media/ythink.png": "/static/media/ythink.5c16b36a680811e55509.png",
     "static/media/bear.png": "/static/media/bear.791b1b3f7b4cef045d43.png",
     "static/media/github.png": "/static/media/github.526986c827d770809130.png",
     "static/media/kakaotalk.png": "/static/media/kakaotalk.1343a3545f9eb3f3aaa8.png",
@@ -17,11 +16,11 @@
     "static/media/about.png": "/static/media/about.0f6ab771af27dfa00830.png",
     "static/media/home.png": "/static/media/home.689904c42a8c7cebbf07.png",
     "index.html": "/index.html",
-    "main.91910f2d.css.map": "/static/css/main.91910f2d.css.map",
-    "main.d12f13ef.js.map": "/static/js/main.d12f13ef.js.map"
+    "main.e469b9e3.css.map": "/static/css/main.e469b9e3.css.map",
+    "main.bf067aaf.js.map": "/static/js/main.bf067aaf.js.map"
   },
   "entrypoints": [
-    "static/css/main.91910f2d.css",
-    "static/js/main.d12f13ef.js"
+    "static/css/main.e469b9e3.css",
+    "static/js/main.bf067aaf.js"
   ]
 }

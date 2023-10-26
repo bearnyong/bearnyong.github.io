@@ -24,7 +24,7 @@ var page = 1;
 var lastPage = $(".page").length;
 
 //scroll animation time
-var timeScrollAnimation = 750;
+var timeScrollAnimation = 400;
 
 //문서(페이지)가 로드되면 첫 페이지 시작
 $html.animate({ scrollTop: 0 }, 10);
