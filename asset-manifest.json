@@ -1,12 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.7d22b53c.css",
-    "main.js": "/static/js/main.b7cae6a3.js",
+    "main.css": "/static/css/main.c017a596.css",
+    "main.js": "/static/js/main.63631d0a.js",
+    "static/media/algoreERD.png": "/static/media/algoreERD.cd1cd29951bde4913ce9.png",
     "static/media/algore.png": "/static/media/algore.712ce4a6f7223adbb099.png",
     "static/media/ythink.png": "/static/media/ythink.4daa2024d91d40cec70b.png",
     "static/media/toegeungil.png": "/static/media/toegeungil.f5c73407a0ce82e42274.png",
     "static/media/profile.png": "/static/media/profile.8d4ab012461d5a75712e.png",
     "static/media/kakaotalkProfile.png": "/static/media/kakaotalkProfile.918568dd0c014cd5eef9.png",
+    "static/media/algoreConfiguration.png": "/static/media/algoreConfiguration.c2d3a37e27dcd17489ed.png",
+    "static/media/algoreTitle.png": "/static/media/algoreTitle.bd1594e05832f3c92477.png",
+    "static/media/algoreGit.png": "/static/media/algoreGit.22ff6ddebe03c8a412a0.png",
+    "static/media/algoreColor.png": "/static/media/algoreColor.2aa3384bd53eca3838cb.png",
     "static/media/bear.png": "/static/media/bear.791b1b3f7b4cef045d43.png",
     "static/media/github.png": "/static/media/github.526986c827d770809130.png",
     "static/media/kakaotalk.png": "/static/media/kakaotalk.1343a3545f9eb3f3aaa8.png",
@@ -16,11 +21,11 @@
     "static/media/about.png": "/static/media/about.0f6ab771af27dfa00830.png",
     "static/media/home.png": "/static/media/home.689904c42a8c7cebbf07.png",
     "index.html": "/index.html",
-    "main.7d22b53c.css.map": "/static/css/main.7d22b53c.css.map",
-    "main.b7cae6a3.js.map": "/static/js/main.b7cae6a3.js.map"
+    "main.c017a596.css.map": "/static/css/main.c017a596.css.map",
+    "main.63631d0a.js.map": "/static/js/main.63631d0a.js.map"
   },
   "entrypoints": [
-    "static/css/main.7d22b53c.css",
-    "static/js/main.b7cae6a3.js"
+    "static/css/main.c017a596.css",
+    "static/js/main.63631d0a.js"
   ]
 }

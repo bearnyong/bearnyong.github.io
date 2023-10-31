@@ -1,0 +1,38 @@
+@charset "utf-8";
+
+@font-face {
+    font-family: 'Ghanachocolate';
+    src: url('./font/Ghanachocolate.otf');
+    font-weight: lighter;
+}
+
+@font-face {
+    font-family: 'jejuGothic';
+    src: url('./font/JejuGothicOTF.otf');
+    font-weight: lighter;
+}
+
+@font-face {
+    font-family: 'nanumGothic';
+    src: url('./font/NanumGothicLight.otf');
+}
+
+@font-face {
+    font-family: 'GowunDodum';
+    font-weight: normal;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/yangheeryu/GowunDodum.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/yangheeryu/GowunDodum?#iefix') format('embedded-opentype'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/yangheeryu/GowunDodum.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/yangheeryu/GowunDodum.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/yangheeryu/GowunDodum.ttf') format("truetype");
+    font-display: swap;
+}
+
+html {
+    scroll-behavior: smooth;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
